@@ -26,6 +26,16 @@ Since there are many different ways in which you might want to do this, we're in
 
 If you make one of these, you will also need an additional pin to assemble it. The Sidecar Spine System will work with almost any 0.25” rod, including standard hinge pins, but you can get extras from us [here](https://www.trex-arms.com/store/sidecar-spine-replacement-hardware/).
 
+### [Angled Extender](AngledExtender)
+
+This is a variation of the "Extender" that adds an adjustable angle, from 20° to 40°. For the smaller waist sizes, especially when paired with the [Tourniquet Holder](https://www.trex-arms.com/store/cat-tourniquet-holder/), this angle takes leverages the curve of the belt to pivot the lower end (end of the barrel) outward and the upper end (rear of the slide) inward. This particular pivot is difficult to attain using other methods.
+
+The files in this folder already have some clearance built-in, to minimize post-print filing/sanding:
+* The 0.25" spline is actually 0.26".
+* Each gap in the spline is 0.26", and each tab is 0.24", so the overall length is still correct.
+
+If you make one of these, you will also need an additional pin, two extra screws, and two extra posts. The Sidecar Spine System will work with almost any 0.25” rod, including standard hinge pins, but you can get extras from us [here](https://www.trex-arms.com/store/sidecar-spine-replacement-hardware/). You may already have screws and posts with your holster, but you can get extras from us [here](https://www.trex-arms.com/store/Replacement-Hardware-Pack/), or use standard screws and lock-nuts from a hardware store.
+
 ### [Wing](Spine/Wing)
 
 You know, [one of these](https://www.trex-arms.com/store/sidecar-raptor-wing-attachment/). But there's also an angled one that lets you fold the clips back over the holster for a smaller footprint. These wings are also the ideal starting point for any new adapters designed to connect the spine system to any mounting hardware.
